@@ -9,5 +9,4 @@ This repository contains a custom pre-trained GPT-2 language model, designed and
 - 🔄 Ready for fine-tuning on downstream tasks  
 - 📦 Easy deployment for inference  
 
-## 📁 Repository Structure
 
